@@ -1,0 +1,24 @@
+
+    Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1ihzvDHSlhilL+8uPoCdWK5Tty4=
+        Signature Algorithm: El-Gamal
+        Issuer Name:
+            Country: FR
+            Organization: Certificate Services
+            Common Name = CS GO
+        Validity
+            Not Before: Mar-01-2021
+            Not After : Mar-01-2022
+        Subject: CN = Katsumi User
+        Subject Public Key Info:
+            Public Key Algorithm: El-Gamal
+                Public-Key: (32 bit)
+                pub:
+                    MTIz
+    Signature Algorithm: El-Gamal
+         AAUABQE8KTZFAZ03s+8=
+    Key Usages
+        Purposes: Digital Signature
+    
